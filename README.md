@@ -14,9 +14,9 @@ Desde el servidor existen 3 comandos especiales:
 
 1.- "SALIR"   el cual termina la ejecucion del script en el cliente.
 
-2.- "DETENER" el cual mantiene las consultas GET pero no ejecuta comandos en el cliete y tampoco envia nada de vuelta.
+2.- "DETENER" el cual mantiene las consultas GET pero no ejecuta comandos en el cliente y tampoco envia nada de vuelta.
 
-3.- "PHISHING"  el cual muestra un prompt de Windows al usuario para que ingreses sus crendiales y al hacerlo enviar estas por HTTP POST al servidor.
+3.- "PHISHING"  el cual muestra un prompt de Windows al usuario para que ingrese sus crendenciales y al hacerlo enviar estas por HTTP POST al servidor.
 
 Toda la info enviada por el cliente al servidor es escrita por el servidor en un archivo llamado salidacomando.txt
  
